@@ -1,10 +1,13 @@
+DELETE FROM Employees
 INSERT INTO Employees
    ([EmployeesId],[Name],[Location])
 VALUES
    ( 1, N'Jared', N'Australia'),
    ( 2, N'Nikita', N'India'),
    ( 3, N'Tom', N'Germany'),
-   ( 4, N'Jake', N'United States')
+   ( 4, N'Jake', N'United States'),
+   ( 5, N'Zach', N'Canada'),
+   ( 7, N'Katie', N'Canada')
 GO
 -- Query the total count of employees
 SELECT COUNT(*) as EmployeeCount FROM dbo.Employees;
