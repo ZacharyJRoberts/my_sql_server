@@ -1,0 +1,15 @@
+/Users/zacharyroberts/git/my_sql_server/bin/Debug/net8.0/my_sql_server
+/Users/zacharyroberts/git/my_sql_server/bin/Debug/net8.0/my_sql_server.deps.json
+/Users/zacharyroberts/git/my_sql_server/bin/Debug/net8.0/my_sql_server.runtimeconfig.json
+/Users/zacharyroberts/git/my_sql_server/bin/Debug/net8.0/my_sql_server.dll
+/Users/zacharyroberts/git/my_sql_server/bin/Debug/net8.0/my_sql_server.pdb
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.AssemblyInfoInputs.cache
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.AssemblyInfo.cs
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.csproj.CoreCompileInputs.cache
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.sourcelink.json
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.dll
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/refint/my_sql_server.dll
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.pdb
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/my_sql_server.genruntimeconfig.cache
+/Users/zacharyroberts/git/my_sql_server/obj/Debug/net8.0/ref/my_sql_server.dll

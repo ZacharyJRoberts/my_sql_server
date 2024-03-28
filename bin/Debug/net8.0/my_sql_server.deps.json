@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "my_sql_server/1.0.0": {
+        "runtime": {
+          "my_sql_server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "my_sql_server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
